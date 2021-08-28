@@ -1,6 +1,6 @@
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
-Nesta projeto foi desenvolvido um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
+Neste projeto foi desenvolvido um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
 Durante o projeto, foi desenvolvidos e abordados os seguintes tópicos:
 
@@ -24,7 +24,7 @@ http://localhost:8080/api/v1/people
 ```
 
 
-E necessários os seguintes pré-requisitos para a execução do projeto desenvolvido:
+É necessários os seguintes pré-requisitos para a execução do projeto desenvolvido:
 
 * Java 11 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
